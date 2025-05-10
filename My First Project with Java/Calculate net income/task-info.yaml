@@ -6,6 +6,34 @@ files:
   - name: test/MyFirstProjectTest.java
     visible: false
     learner_created: false
+  - name: src/calculator/Doughnut.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/Product.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/Pancake.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/README.md
+    visible: true
+    learner_created: true
+  - name: src/calculator/MilkChocolate.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/Bubblegum.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/Icecream.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/Toffee.java
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/projects/380/stages/2268/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Sat, 10 May 2025 12:34:59 UTC"
 record: -1

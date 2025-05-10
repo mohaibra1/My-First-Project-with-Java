@@ -1,4 +1,7 @@
 package calculator;
 
-public class Pancake {
+public class Pancake extends Product{
+    public Pancake(String name, int price) {
+        super(name, price);
+    }
 }
